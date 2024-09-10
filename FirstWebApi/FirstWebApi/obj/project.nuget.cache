@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yQinGfh7GdTo1fH517uAWYrRdEZ/podisymH0ECvseKsvLoCejereRzw8cQZcOmY0eQ8euj52OujCcNLWDs+uw==",
+  "dgSpecHash": "j5GClbqXtW/6XWDhCnQ4WQwEStQLRnQIEGZCCd3yPv+Zq4PqXmZtroZCFwK8P2n5K6/geE4rMebx4W3NaSn6lA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lenovo\\source\\repos\\FirstWebApi\\FirstWebApi\\FirstWebApi.csproj",
+  "projectFilePath": "C:\\Users\\Lenovo\\Desktop\\firsttaskAPI\\FirstWebApi\\FirstWebApi\\FirstWebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lenovo\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

@@ -1,73 +1,73 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\FirstWebApi\\",
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\firsttaskAPI\\FirstWebApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6C014528-0CAC-45D8-BAAB-0B13A034B787}|FirstWebApi\\FirstWebApi.csproj|c:\\users\\lenovo\\source\\repos\\firstwebapi\\firstwebapi\\controllers\\genrecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6C014528-0CAC-45D8-BAAB-0B13A034B787}|FirstWebApi\\FirstWebApi.csproj|c:\\users\\lenovo\\desktop\\firsttaskapi\\firstwebapi\\firstwebapi\\controllers\\genrecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6C014528-0CAC-45D8-BAAB-0B13A034B787}|FirstWebApi\\FirstWebApi.csproj|solutionrelative:firstwebapi\\controllers\\genrecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C014528-0CAC-45D8-BAAB-0B13A034B787}|FirstWebApi\\FirstWebApi.csproj|c:\\users\\lenovo\\source\\repos\\firstwebapi\\firstwebapi\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6C014528-0CAC-45D8-BAAB-0B13A034B787}|FirstWebApi\\FirstWebApi.csproj|c:\\users\\lenovo\\desktop\\firsttaskapi\\firstwebapi\\firstwebapi\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6C014528-0CAC-45D8-BAAB-0B13A034B787}|FirstWebApi\\FirstWebApi.csproj|solutionrelative:firstwebapi\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C014528-0CAC-45D8-BAAB-0B13A034B787}|FirstWebApi\\FirstWebApi.csproj|c:\\users\\lenovo\\source\\repos\\firstwebapi\\firstwebapi\\dtos\\genredtos\\genreupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6C014528-0CAC-45D8-BAAB-0B13A034B787}|FirstWebApi\\FirstWebApi.csproj|c:\\users\\lenovo\\desktop\\firsttaskapi\\firstwebapi\\firstwebapi\\dtos\\genredtos\\genreupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6C014528-0CAC-45D8-BAAB-0B13A034B787}|FirstWebApi\\FirstWebApi.csproj|solutionrelative:firstwebapi\\dtos\\genredtos\\genreupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C014528-0CAC-45D8-BAAB-0B13A034B787}|FirstWebApi\\FirstWebApi.csproj|c:\\users\\lenovo\\source\\repos\\firstwebapi\\firstwebapi\\dtos\\bookdtos\\bookupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6C014528-0CAC-45D8-BAAB-0B13A034B787}|FirstWebApi\\FirstWebApi.csproj|c:\\users\\lenovo\\desktop\\firsttaskapi\\firstwebapi\\firstwebapi\\dtos\\bookdtos\\bookupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6C014528-0CAC-45D8-BAAB-0B13A034B787}|FirstWebApi\\FirstWebApi.csproj|solutionrelative:firstwebapi\\dtos\\bookdtos\\bookupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C014528-0CAC-45D8-BAAB-0B13A034B787}|FirstWebApi\\FirstWebApi.csproj|c:\\users\\lenovo\\source\\repos\\firstwebapi\\firstwebapi\\dtos\\genredtos\\genregetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6C014528-0CAC-45D8-BAAB-0B13A034B787}|FirstWebApi\\FirstWebApi.csproj|c:\\users\\lenovo\\desktop\\firsttaskapi\\firstwebapi\\firstwebapi\\dtos\\genredtos\\genregetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6C014528-0CAC-45D8-BAAB-0B13A034B787}|FirstWebApi\\FirstWebApi.csproj|solutionrelative:firstwebapi\\dtos\\genredtos\\genregetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C014528-0CAC-45D8-BAAB-0B13A034B787}|FirstWebApi\\FirstWebApi.csproj|c:\\users\\lenovo\\source\\repos\\firstwebapi\\firstwebapi\\dtos\\genredtos\\genrecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6C014528-0CAC-45D8-BAAB-0B13A034B787}|FirstWebApi\\FirstWebApi.csproj|c:\\users\\lenovo\\desktop\\firsttaskapi\\firstwebapi\\firstwebapi\\dtos\\genredtos\\genrecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6C014528-0CAC-45D8-BAAB-0B13A034B787}|FirstWebApi\\FirstWebApi.csproj|solutionrelative:firstwebapi\\dtos\\genredtos\\genrecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C014528-0CAC-45D8-BAAB-0B13A034B787}|FirstWebApi\\FirstWebApi.csproj|c:\\users\\lenovo\\source\\repos\\firstwebapi\\firstwebapi\\dtos\\bookdtos\\bookcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6C014528-0CAC-45D8-BAAB-0B13A034B787}|FirstWebApi\\FirstWebApi.csproj|c:\\users\\lenovo\\desktop\\firsttaskapi\\firstwebapi\\firstwebapi\\dtos\\bookdtos\\bookcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6C014528-0CAC-45D8-BAAB-0B13A034B787}|FirstWebApi\\FirstWebApi.csproj|solutionrelative:firstwebapi\\dtos\\bookdtos\\bookcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C014528-0CAC-45D8-BAAB-0B13A034B787}|FirstWebApi\\FirstWebApi.csproj|c:\\users\\lenovo\\source\\repos\\firstwebapi\\firstwebapi\\dtos\\bookdtos\\bookgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6C014528-0CAC-45D8-BAAB-0B13A034B787}|FirstWebApi\\FirstWebApi.csproj|c:\\users\\lenovo\\desktop\\firsttaskapi\\firstwebapi\\firstwebapi\\dtos\\bookdtos\\bookgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6C014528-0CAC-45D8-BAAB-0B13A034B787}|FirstWebApi\\FirstWebApi.csproj|solutionrelative:firstwebapi\\dtos\\bookdtos\\bookgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C014528-0CAC-45D8-BAAB-0B13A034B787}|FirstWebApi\\FirstWebApi.csproj|c:\\users\\lenovo\\source\\repos\\firstwebapi\\firstwebapi\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6C014528-0CAC-45D8-BAAB-0B13A034B787}|FirstWebApi\\FirstWebApi.csproj|c:\\users\\lenovo\\desktop\\firsttaskapi\\firstwebapi\\firstwebapi\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6C014528-0CAC-45D8-BAAB-0B13A034B787}|FirstWebApi\\FirstWebApi.csproj|solutionrelative:firstwebapi\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C014528-0CAC-45D8-BAAB-0B13A034B787}|FirstWebApi\\FirstWebApi.csproj|c:\\users\\lenovo\\source\\repos\\firstwebapi\\firstwebapi\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6C014528-0CAC-45D8-BAAB-0B13A034B787}|FirstWebApi\\FirstWebApi.csproj|c:\\users\\lenovo\\desktop\\firsttaskapi\\firstwebapi\\firstwebapi\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6C014528-0CAC-45D8-BAAB-0B13A034B787}|FirstWebApi\\FirstWebApi.csproj|solutionrelative:firstwebapi\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C014528-0CAC-45D8-BAAB-0B13A034B787}|FirstWebApi\\FirstWebApi.csproj|c:\\users\\lenovo\\source\\repos\\firstwebapi\\firstwebapi\\configurations\\genreconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6C014528-0CAC-45D8-BAAB-0B13A034B787}|FirstWebApi\\FirstWebApi.csproj|c:\\users\\lenovo\\desktop\\firsttaskapi\\firstwebapi\\firstwebapi\\configurations\\genreconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6C014528-0CAC-45D8-BAAB-0B13A034B787}|FirstWebApi\\FirstWebApi.csproj|solutionrelative:firstwebapi\\configurations\\genreconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C014528-0CAC-45D8-BAAB-0B13A034B787}|FirstWebApi\\FirstWebApi.csproj|c:\\users\\lenovo\\source\\repos\\firstwebapi\\firstwebapi\\configurations\\bookconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6C014528-0CAC-45D8-BAAB-0B13A034B787}|FirstWebApi\\FirstWebApi.csproj|c:\\users\\lenovo\\desktop\\firsttaskapi\\firstwebapi\\firstwebapi\\configurations\\bookconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6C014528-0CAC-45D8-BAAB-0B13A034B787}|FirstWebApi\\FirstWebApi.csproj|solutionrelative:firstwebapi\\configurations\\bookconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C014528-0CAC-45D8-BAAB-0B13A034B787}|FirstWebApi\\FirstWebApi.csproj|c:\\users\\lenovo\\source\\repos\\firstwebapi\\firstwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6C014528-0CAC-45D8-BAAB-0B13A034B787}|FirstWebApi\\FirstWebApi.csproj|c:\\users\\lenovo\\desktop\\firsttaskapi\\firstwebapi\\firstwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6C014528-0CAC-45D8-BAAB-0B13A034B787}|FirstWebApi\\FirstWebApi.csproj|solutionrelative:firstwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C014528-0CAC-45D8-BAAB-0B13A034B787}|FirstWebApi\\FirstWebApi.csproj|c:\\users\\lenovo\\source\\repos\\firstwebapi\\firstwebapi\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6C014528-0CAC-45D8-BAAB-0B13A034B787}|FirstWebApi\\FirstWebApi.csproj|c:\\users\\lenovo\\desktop\\firsttaskapi\\firstwebapi\\firstwebapi\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6C014528-0CAC-45D8-BAAB-0B13A034B787}|FirstWebApi\\FirstWebApi.csproj|solutionrelative:firstwebapi\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C014528-0CAC-45D8-BAAB-0B13A034B787}|FirstWebApi\\FirstWebApi.csproj|c:\\users\\lenovo\\source\\repos\\firstwebapi\\firstwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{6C014528-0CAC-45D8-BAAB-0B13A034B787}|FirstWebApi\\FirstWebApi.csproj|c:\\users\\lenovo\\desktop\\firsttaskapi\\firstwebapi\\firstwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{6C014528-0CAC-45D8-BAAB-0B13A034B787}|FirstWebApi\\FirstWebApi.csproj|solutionrelative:firstwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C014528-0CAC-45D8-BAAB-0B13A034B787}|FirstWebApi\\FirstWebApi.csproj|c:\\users\\lenovo\\source\\repos\\firstwebapi\\firstwebapi\\firstwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{6C014528-0CAC-45D8-BAAB-0B13A034B787}|FirstWebApi\\FirstWebApi.csproj|c:\\users\\lenovo\\desktop\\firsttaskapi\\firstwebapi\\firstwebapi\\firstwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{6C014528-0CAC-45D8-BAAB-0B13A034B787}|FirstWebApi\\FirstWebApi.csproj|solutionrelative:firstwebapi\\firstwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C014528-0CAC-45D8-BAAB-0B13A034B787}|FirstWebApi\\FirstWebApi.csproj|c:\\users\\lenovo\\source\\repos\\firstwebapi\\firstwebapi\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6C014528-0CAC-45D8-BAAB-0B13A034B787}|FirstWebApi\\FirstWebApi.csproj|c:\\users\\lenovo\\desktop\\firsttaskapi\\firstwebapi\\firstwebapi\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6C014528-0CAC-45D8-BAAB-0B13A034B787}|FirstWebApi\\FirstWebApi.csproj|solutionrelative:firstwebapi\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -84,63 +84,59 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "GenreCreateDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\FirstWebApi\\FirstWebApi\\DTOs\\GenreDTOs\\GenreCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\firsttaskAPI\\FirstWebApi\\FirstWebApi\\DTOs\\GenreDTOs\\GenreCreateDTO.cs",
               "RelativeDocumentMoniker": "FirstWebApi\\DTOs\\GenreDTOs\\GenreCreateDTO.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\FirstWebApi\\FirstWebApi\\DTOs\\GenreDTOs\\GenreCreateDTO.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\firsttaskAPI\\FirstWebApi\\FirstWebApi\\DTOs\\GenreDTOs\\GenreCreateDTO.cs",
               "RelativeToolTip": "FirstWebApi\\DTOs\\GenreDTOs\\GenreCreateDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T18:21:31.66Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-09T18:21:31.66Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "GenreGetDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\FirstWebApi\\FirstWebApi\\DTOs\\GenreDTOs\\GenreGetDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\firsttaskAPI\\FirstWebApi\\FirstWebApi\\DTOs\\GenreDTOs\\GenreGetDTO.cs",
               "RelativeDocumentMoniker": "FirstWebApi\\DTOs\\GenreDTOs\\GenreGetDTO.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\FirstWebApi\\FirstWebApi\\DTOs\\GenreDTOs\\GenreGetDTO.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\firsttaskAPI\\FirstWebApi\\FirstWebApi\\DTOs\\GenreDTOs\\GenreGetDTO.cs",
               "RelativeToolTip": "FirstWebApi\\DTOs\\GenreDTOs\\GenreGetDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T18:19:01.469Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-09T18:19:01.469Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "GenreUpdateDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\FirstWebApi\\FirstWebApi\\DTOs\\GenreDTOs\\GenreUpdateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\firsttaskAPI\\FirstWebApi\\FirstWebApi\\DTOs\\GenreDTOs\\GenreUpdateDTO.cs",
               "RelativeDocumentMoniker": "FirstWebApi\\DTOs\\GenreDTOs\\GenreUpdateDTO.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\FirstWebApi\\FirstWebApi\\DTOs\\GenreDTOs\\GenreUpdateDTO.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\firsttaskAPI\\FirstWebApi\\FirstWebApi\\DTOs\\GenreDTOs\\GenreUpdateDTO.cs",
               "RelativeToolTip": "FirstWebApi\\DTOs\\GenreDTOs\\GenreUpdateDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T18:21:17.499Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-09T18:21:17.499Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "BookUpdateDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\FirstWebApi\\FirstWebApi\\DTOs\\BookDTOs\\BookUpdateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\firsttaskAPI\\FirstWebApi\\FirstWebApi\\DTOs\\BookDTOs\\BookUpdateDTO.cs",
               "RelativeDocumentMoniker": "FirstWebApi\\DTOs\\BookDTOs\\BookUpdateDTO.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\FirstWebApi\\FirstWebApi\\DTOs\\BookDTOs\\BookUpdateDTO.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\firsttaskAPI\\FirstWebApi\\FirstWebApi\\DTOs\\BookDTOs\\BookUpdateDTO.cs",
               "RelativeToolTip": "FirstWebApi\\DTOs\\BookDTOs\\BookUpdateDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T18:02:36.407Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-09T18:02:36.407Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "GenreController.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\FirstWebApi\\FirstWebApi\\Controllers\\GenreController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\firsttaskAPI\\FirstWebApi\\FirstWebApi\\Controllers\\GenreController.cs",
               "RelativeDocumentMoniker": "FirstWebApi\\Controllers\\GenreController.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\FirstWebApi\\FirstWebApi\\Controllers\\GenreController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\firsttaskAPI\\FirstWebApi\\FirstWebApi\\Controllers\\GenreController.cs",
               "RelativeToolTip": "FirstWebApi\\Controllers\\GenreController.cs",
-              "ViewState": "AQIAAGEAAAAAAAAAAAAAAFYAAAAyAAAA",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAuwFQAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-09T16:22:32.716Z",
               "EditorCaption": ""
@@ -149,157 +145,145 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "BookController.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\FirstWebApi\\FirstWebApi\\Controllers\\BookController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\firsttaskAPI\\FirstWebApi\\FirstWebApi\\Controllers\\BookController.cs",
               "RelativeDocumentMoniker": "FirstWebApi\\Controllers\\BookController.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\FirstWebApi\\FirstWebApi\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\firsttaskAPI\\FirstWebApi\\FirstWebApi\\Controllers\\BookController.cs",
               "RelativeToolTip": "FirstWebApi\\Controllers\\BookController.cs",
               "ViewState": "AQIAAFQAAAAAAAAAAAAcwFsAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T16:22:55.886Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-09T16:22:55.886Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "BookCreateDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\FirstWebApi\\FirstWebApi\\DTOs\\BookDTOs\\BookCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\firsttaskAPI\\FirstWebApi\\FirstWebApi\\DTOs\\BookDTOs\\BookCreateDTO.cs",
               "RelativeDocumentMoniker": "FirstWebApi\\DTOs\\BookDTOs\\BookCreateDTO.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\FirstWebApi\\FirstWebApi\\DTOs\\BookDTOs\\BookCreateDTO.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\firsttaskAPI\\FirstWebApi\\FirstWebApi\\DTOs\\BookDTOs\\BookCreateDTO.cs",
               "RelativeToolTip": "FirstWebApi\\DTOs\\BookDTOs\\BookCreateDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T17:50:14.335Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-09T17:50:14.335Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "BookGetDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\FirstWebApi\\FirstWebApi\\DTOs\\BookDTOs\\BookGetDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\firsttaskAPI\\FirstWebApi\\FirstWebApi\\DTOs\\BookDTOs\\BookGetDTO.cs",
               "RelativeDocumentMoniker": "FirstWebApi\\DTOs\\BookDTOs\\BookGetDTO.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\FirstWebApi\\FirstWebApi\\DTOs\\BookDTOs\\BookGetDTO.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\firsttaskAPI\\FirstWebApi\\FirstWebApi\\DTOs\\BookDTOs\\BookGetDTO.cs",
               "RelativeToolTip": "FirstWebApi\\DTOs\\BookDTOs\\BookGetDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABTAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T17:23:17.373Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-09T17:23:17.373Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Genre.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\FirstWebApi\\FirstWebApi\\Models\\Genre.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\firsttaskAPI\\FirstWebApi\\FirstWebApi\\Models\\Genre.cs",
               "RelativeDocumentMoniker": "FirstWebApi\\Models\\Genre.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\FirstWebApi\\FirstWebApi\\Models\\Genre.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\firsttaskAPI\\FirstWebApi\\FirstWebApi\\Models\\Genre.cs",
               "RelativeToolTip": "FirstWebApi\\Models\\Genre.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T14:45:50.174Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-09T14:45:50.174Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "GenreConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\FirstWebApi\\FirstWebApi\\Configurations\\GenreConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\firsttaskAPI\\FirstWebApi\\FirstWebApi\\Configurations\\GenreConfiguration.cs",
               "RelativeDocumentMoniker": "FirstWebApi\\Configurations\\GenreConfiguration.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\FirstWebApi\\FirstWebApi\\Configurations\\GenreConfiguration.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\firsttaskAPI\\FirstWebApi\\FirstWebApi\\Configurations\\GenreConfiguration.cs",
               "RelativeToolTip": "FirstWebApi\\Configurations\\GenreConfiguration.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T15:50:09.746Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-09T15:50:09.746Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "Book.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\FirstWebApi\\FirstWebApi\\Models\\Book.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\firsttaskAPI\\FirstWebApi\\FirstWebApi\\Models\\Book.cs",
               "RelativeDocumentMoniker": "FirstWebApi\\Models\\Book.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\FirstWebApi\\FirstWebApi\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\firsttaskAPI\\FirstWebApi\\FirstWebApi\\Models\\Book.cs",
               "RelativeToolTip": "FirstWebApi\\Models\\Book.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T14:45:56.516Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-09T14:45:56.516Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "BookConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\FirstWebApi\\FirstWebApi\\Configurations\\BookConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\firsttaskAPI\\FirstWebApi\\FirstWebApi\\Configurations\\BookConfiguration.cs",
               "RelativeDocumentMoniker": "FirstWebApi\\Configurations\\BookConfiguration.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\FirstWebApi\\FirstWebApi\\Configurations\\BookConfiguration.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\firsttaskAPI\\FirstWebApi\\FirstWebApi\\Configurations\\BookConfiguration.cs",
               "RelativeToolTip": "FirstWebApi\\Configurations\\BookConfiguration.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T15:08:23.589Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-09T15:08:23.589Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\FirstWebApi\\FirstWebApi\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\firsttaskAPI\\FirstWebApi\\FirstWebApi\\Program.cs",
               "RelativeDocumentMoniker": "FirstWebApi\\Program.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\FirstWebApi\\FirstWebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\firsttaskAPI\\FirstWebApi\\FirstWebApi\\Program.cs",
               "RelativeToolTip": "FirstWebApi\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T15:58:18.212Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-09T15:58:18.212Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\FirstWebApi\\FirstWebApi\\DAL\\AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\firsttaskAPI\\FirstWebApi\\FirstWebApi\\DAL\\AppDbContext.cs",
               "RelativeDocumentMoniker": "FirstWebApi\\DAL\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\FirstWebApi\\FirstWebApi\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\firsttaskAPI\\FirstWebApi\\FirstWebApi\\DAL\\AppDbContext.cs",
               "RelativeToolTip": "FirstWebApi\\DAL\\AppDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T15:51:24.884Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-09T15:51:24.884Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\FirstWebApi\\FirstWebApi\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\firsttaskAPI\\FirstWebApi\\FirstWebApi\\appsettings.json",
               "RelativeDocumentMoniker": "FirstWebApi\\appsettings.json",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\FirstWebApi\\FirstWebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\firsttaskAPI\\FirstWebApi\\FirstWebApi\\appsettings.json",
               "RelativeToolTip": "FirstWebApi\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-09T15:57:16.606Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-09T15:57:16.606Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "FirstWebApi",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\FirstWebApi\\FirstWebApi\\FirstWebApi.csproj",
+              "Title": "FirstWebApi.csproj",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\firsttaskAPI\\FirstWebApi\\FirstWebApi\\FirstWebApi.csproj",
               "RelativeDocumentMoniker": "FirstWebApi\\FirstWebApi.csproj",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\FirstWebApi\\FirstWebApi\\FirstWebApi.csproj",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\firsttaskAPI\\FirstWebApi\\FirstWebApi\\FirstWebApi.csproj",
               "RelativeToolTip": "FirstWebApi\\FirstWebApi.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-09T15:06:58.201Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-09T15:06:58.201Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\FirstWebApi\\FirstWebApi\\Models\\BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\firsttaskAPI\\FirstWebApi\\FirstWebApi\\Models\\BaseEntity.cs",
               "RelativeDocumentMoniker": "FirstWebApi\\Models\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\FirstWebApi\\FirstWebApi\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\firsttaskAPI\\FirstWebApi\\FirstWebApi\\Models\\BaseEntity.cs",
               "RelativeToolTip": "FirstWebApi\\Models\\BaseEntity.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T14:46:15.563Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-09T14:46:15.563Z"
             }
           ]
         }

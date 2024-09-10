@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lenovo\\source\\repos\\FirstWebApi\\FirstWebApi\\FirstWebApi.csproj": {}
+    "C:\\Users\\Lenovo\\Desktop\\firsttaskAPI\\FirstWebApi\\FirstWebApi\\FirstWebApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lenovo\\source\\repos\\FirstWebApi\\FirstWebApi\\FirstWebApi.csproj": {
+    "C:\\Users\\Lenovo\\Desktop\\firsttaskAPI\\FirstWebApi\\FirstWebApi\\FirstWebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lenovo\\source\\repos\\FirstWebApi\\FirstWebApi\\FirstWebApi.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\firsttaskAPI\\FirstWebApi\\FirstWebApi\\FirstWebApi.csproj",
         "projectName": "FirstWebApi",
-        "projectPath": "C:\\Users\\Lenovo\\source\\repos\\FirstWebApi\\FirstWebApi\\FirstWebApi.csproj",
+        "projectPath": "C:\\Users\\Lenovo\\Desktop\\firsttaskAPI\\FirstWebApi\\FirstWebApi\\FirstWebApi.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lenovo\\source\\repos\\FirstWebApi\\FirstWebApi\\obj\\",
+        "outputPath": "C:\\Users\\Lenovo\\Desktop\\firsttaskAPI\\FirstWebApi\\FirstWebApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
